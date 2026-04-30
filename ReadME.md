@@ -133,7 +133,7 @@ JOIN branch b ON e.branch_id = b.branch_id;
 
 ### Company Database
 
-<img width="1275" height="1650" alt="company-database_page-0001" src="https://github.com/user-attachments/assets/e13efa74-3285-4a97-b85f-a970ac431ab1" />
+<img width="1275" height="1650" alt="company-database_page-0001 jpg" src="https://github.com/user-attachments/assets/be1549f9-2878-4d28-89e5-0b88c12e427e" />
 
 
 ------------------------------------------------------------------------
